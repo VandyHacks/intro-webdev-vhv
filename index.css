@@ -3,15 +3,35 @@ body {
     
 }
 
+button {
+    width: 200px;
+    height:100px;
+}
+.buttons {
+
+    margin: 20px;
+}
+
 .main{
     text-align: center;
 }
 
 .qHeader{
-
+    margin: 20px;
+    width: 500px;
+    height:auto;
+    display: inline-block;
+    font-size: 30px;
 }
 
 .qBody{
-
+    margin: 20px;
+    font-size: 20px;
 }
   
+.qCard{
+    background: pink;
+    width: 800px;
+    height: auto;
+    display: inline-block;
+}
